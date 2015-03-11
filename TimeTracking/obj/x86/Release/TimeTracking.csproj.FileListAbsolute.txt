@@ -22,3 +22,28 @@ E:\DOTNET projecten\TimeTracking\TimeTracking\obj\x86\Release\Logic\ProjectRepor
 E:\DOTNET projecten\TimeTracking\TimeTracking\obj\x86\Release\Logic\ProjectReport\ProjectReportHeader.g.cs
 E:\DOTNET projecten\TimeTracking\TimeTracking\obj\x86\Release\GeneratedInternalTypeHelper.g.cs
 E:\DOTNET projecten\TimeTracking\TimeTracking\obj\x86\Release\TimeTracking_MarkupCompile.lref
+E:\GitHub\TimeTracking\TimeTracking\bin\Release\TimeTracking.exe.config
+E:\GitHub\TimeTracking\TimeTracking\obj\x86\Release\TimeTracking.exe
+E:\GitHub\TimeTracking\TimeTracking\obj\x86\Release\TimeTracking.pdb
+E:\GitHub\TimeTracking\TimeTracking\bin\Release\TimeTracking.exe
+E:\GitHub\TimeTracking\TimeTracking\bin\Release\TimeTracking.pdb
+E:\GitHub\TimeTracking\TimeTracking\obj\x86\Release\TimeTracking.csprojResolveAssemblyReference.cache
+E:\GitHub\TimeTracking\TimeTracking\obj\x86\Release\InputWindow.baml
+E:\GitHub\TimeTracking\TimeTracking\obj\x86\Release\Logic\LoadProjects\ProjectListItemControl.baml
+E:\GitHub\TimeTracking\TimeTracking\obj\x86\Release\Logic\ProjectReport\ProjectReportHeader.baml
+E:\GitHub\TimeTracking\TimeTracking\obj\x86\Release\Logic\ProjectReport\ProjectReportEntry.baml
+E:\GitHub\TimeTracking\TimeTracking\obj\x86\Release\MainWindow.baml
+E:\GitHub\TimeTracking\TimeTracking\obj\x86\Release\InputWindow.g.cs
+E:\GitHub\TimeTracking\TimeTracking\obj\x86\Release\Logic\LoadProjects\ProjectListItemControl.g.cs
+E:\GitHub\TimeTracking\TimeTracking\obj\x86\Release\Logic\ProjectReport\ProjectReportHeader.g.cs
+E:\GitHub\TimeTracking\TimeTracking\obj\x86\Release\Logic\ProjectReport\ProjectReportEntry.g.cs
+E:\GitHub\TimeTracking\TimeTracking\obj\x86\Release\Logic\ProjectReport\ProjectReportWindow.g.cs
+E:\GitHub\TimeTracking\TimeTracking\obj\x86\Release\MainWindow.g.cs
+E:\GitHub\TimeTracking\TimeTracking\obj\x86\Release\App.g.cs
+E:\GitHub\TimeTracking\TimeTracking\obj\x86\Release\GeneratedInternalTypeHelper.g.cs
+E:\GitHub\TimeTracking\TimeTracking\obj\x86\Release\TimeTracking_MarkupCompile.cache
+E:\GitHub\TimeTracking\TimeTracking\obj\x86\Release\TimeTracking_MarkupCompile.lref
+E:\GitHub\TimeTracking\TimeTracking\obj\x86\Release\Logic\ProjectReport\ProjectReportWindow.baml
+E:\GitHub\TimeTracking\TimeTracking\obj\x86\Release\TimeTracking.g.resources
+E:\GitHub\TimeTracking\TimeTracking\obj\x86\Release\TimeTracking.Properties.Resources.resources
+E:\GitHub\TimeTracking\TimeTracking\obj\x86\Release\TimeTracking.csproj.GenerateResource.Cache

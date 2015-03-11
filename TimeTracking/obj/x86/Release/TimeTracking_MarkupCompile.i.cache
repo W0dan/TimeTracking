@@ -4,17 +4,17 @@
 winexe
 C#
 .cs
-E:\DOTNET projecten\TimeTracking\TimeTracking\obj\x86\Release\
+E:\GitHub\TimeTracking\TimeTracking\obj\x86\Release\
 TimeTracking
 none
 false
 TRACE
-E:\DOTNET projecten\TimeTracking\TimeTracking\App.xaml
+E:\GitHub\TimeTracking\TimeTracking\App.xaml
 6-2112858220
 
 21277491784
 13-761804836
 InputWindow.xaml;Logic\LoadProjects\ProjectListItemControl.xaml;Logic\ProjectReport\ProjectReportHeader.xaml;Logic\ProjectReport\ProjectReportEntry.xaml;Logic\ProjectReport\ProjectReportWindow.xaml;MainWindow.xaml;
 
-False
+True
 

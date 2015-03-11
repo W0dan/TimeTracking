@@ -1,0 +1,49 @@
+E:\DOTNET projecten\TimeTracking\TimeTracking\bin\Debug\TimeTracking.exe
+E:\DOTNET projecten\TimeTracking\TimeTracking\bin\Debug\TimeTracking.pdb
+E:\DOTNET projecten\TimeTracking\TimeTracking\obj\x86\Debug\MainWindow.baml
+E:\DOTNET projecten\TimeTracking\TimeTracking\obj\x86\Debug\MainWindow.g.cs
+E:\DOTNET projecten\TimeTracking\TimeTracking\obj\x86\Debug\App.g.cs
+E:\DOTNET projecten\TimeTracking\TimeTracking\obj\x86\Debug\TimeTracking_MarkupCompile.cache
+E:\DOTNET projecten\TimeTracking\TimeTracking\obj\x86\Debug\TimeTracking.g.resources
+E:\DOTNET projecten\TimeTracking\TimeTracking\obj\x86\Debug\TimeTracking.Properties.Resources.resources
+E:\DOTNET projecten\TimeTracking\TimeTracking\obj\x86\Debug\TimeTracking.csproj.GenerateResource.Cache
+E:\DOTNET projecten\TimeTracking\TimeTracking\obj\x86\Debug\TimeTracking.exe
+E:\DOTNET projecten\TimeTracking\TimeTracking\obj\x86\Debug\TimeTracking.pdb
+E:\DOTNET projecten\TimeTracking\TimeTracking\bin\Debug\TimeTracking.exe.config
+E:\DOTNET projecten\TimeTracking\TimeTracking\obj\x86\Debug\InputWindow.baml
+E:\DOTNET projecten\TimeTracking\TimeTracking\obj\x86\Debug\Logic\LoadProjects\ProjectListItemControl.baml
+E:\DOTNET projecten\TimeTracking\TimeTracking\obj\x86\Debug\Logic\ProjectReport\ProjectReportHeader.baml
+E:\DOTNET projecten\TimeTracking\TimeTracking\obj\x86\Debug\Logic\ProjectReport\ProjectReportEntry.baml
+E:\DOTNET projecten\TimeTracking\TimeTracking\obj\x86\Debug\InputWindow.g.cs
+E:\DOTNET projecten\TimeTracking\TimeTracking\obj\x86\Debug\Logic\LoadProjects\ProjectListItemControl.g.cs
+E:\DOTNET projecten\TimeTracking\TimeTracking\obj\x86\Debug\Logic\ProjectReport\ProjectReportHeader.g.cs
+E:\DOTNET projecten\TimeTracking\TimeTracking\obj\x86\Debug\Logic\ProjectReport\ProjectReportEntry.g.cs
+E:\DOTNET projecten\TimeTracking\TimeTracking\obj\x86\Debug\Logic\ProjectReport\ProjectReportWindow.g.cs
+E:\DOTNET projecten\TimeTracking\TimeTracking\obj\x86\Debug\GeneratedInternalTypeHelper.g.cs
+E:\DOTNET projecten\TimeTracking\TimeTracking\obj\x86\Debug\TimeTracking_MarkupCompile.lref
+E:\DOTNET projecten\TimeTracking\TimeTracking\obj\x86\Debug\Logic\ProjectReport\ProjectReportWindow.baml
+E:\GitHub\TimeTracking\TimeTracking\bin\Debug\TimeTracking.exe.config
+E:\GitHub\TimeTracking\TimeTracking\obj\x86\Debug\TimeTracking.exe
+E:\GitHub\TimeTracking\TimeTracking\obj\x86\Debug\TimeTracking.pdb
+E:\GitHub\TimeTracking\TimeTracking\bin\Debug\TimeTracking.exe
+E:\GitHub\TimeTracking\TimeTracking\bin\Debug\TimeTracking.pdb
+E:\GitHub\TimeTracking\TimeTracking\obj\x86\Debug\TimeTracking.csprojResolveAssemblyReference.cache
+E:\GitHub\TimeTracking\TimeTracking\obj\x86\Debug\InputWindow.baml
+E:\GitHub\TimeTracking\TimeTracking\obj\x86\Debug\Logic\LoadProjects\ProjectListItemControl.baml
+E:\GitHub\TimeTracking\TimeTracking\obj\x86\Debug\Logic\ProjectReport\ProjectReportHeader.baml
+E:\GitHub\TimeTracking\TimeTracking\obj\x86\Debug\Logic\ProjectReport\ProjectReportEntry.baml
+E:\GitHub\TimeTracking\TimeTracking\obj\x86\Debug\MainWindow.baml
+E:\GitHub\TimeTracking\TimeTracking\obj\x86\Debug\InputWindow.g.cs
+E:\GitHub\TimeTracking\TimeTracking\obj\x86\Debug\Logic\LoadProjects\ProjectListItemControl.g.cs
+E:\GitHub\TimeTracking\TimeTracking\obj\x86\Debug\Logic\ProjectReport\ProjectReportHeader.g.cs
+E:\GitHub\TimeTracking\TimeTracking\obj\x86\Debug\Logic\ProjectReport\ProjectReportEntry.g.cs
+E:\GitHub\TimeTracking\TimeTracking\obj\x86\Debug\Logic\ProjectReport\ProjectReportWindow.g.cs
+E:\GitHub\TimeTracking\TimeTracking\obj\x86\Debug\MainWindow.g.cs
+E:\GitHub\TimeTracking\TimeTracking\obj\x86\Debug\App.g.cs
+E:\GitHub\TimeTracking\TimeTracking\obj\x86\Debug\GeneratedInternalTypeHelper.g.cs
+E:\GitHub\TimeTracking\TimeTracking\obj\x86\Debug\TimeTracking_MarkupCompile.cache
+E:\GitHub\TimeTracking\TimeTracking\obj\x86\Debug\TimeTracking_MarkupCompile.lref
+E:\GitHub\TimeTracking\TimeTracking\obj\x86\Debug\Logic\ProjectReport\ProjectReportWindow.baml
+E:\GitHub\TimeTracking\TimeTracking\obj\x86\Debug\TimeTracking.g.resources
+E:\GitHub\TimeTracking\TimeTracking\obj\x86\Debug\TimeTracking.Properties.Resources.resources
+E:\GitHub\TimeTracking\TimeTracking\obj\x86\Debug\TimeTracking.csproj.GenerateResource.Cache

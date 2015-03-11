@@ -1,0 +1,20 @@
+﻿<UserControl x:Class="TimeTracking.Logic.LoadProjects.ProjectListItemControl"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             mc:Ignorable="d" 
+             d:DesignHeight="57" d:DesignWidth="518">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="35*"></ColumnDefinition>
+            <ColumnDefinition Width="35*"></ColumnDefinition>
+            <ColumnDefinition Width="15*"></ColumnDefinition>
+            <ColumnDefinition Width="15*"></ColumnDefinition>
+        </Grid.ColumnDefinitions>
+        <Label Grid.Column="0" Name="ProjectName" FontSize="32" VerticalAlignment="Stretch" VerticalContentAlignment="Center" HorizontalAlignment="Stretch" HorizontalContentAlignment="Center"></Label>
+        <Label Grid.Column="1" MouseUp="PauseButtonClick" Name="ElapsedTime" FontSize="32" VerticalAlignment="Stretch" VerticalContentAlignment="Center" HorizontalAlignment="Stretch" HorizontalContentAlignment="Center"></Label>
+        <Label Grid.Column="2" FontSize="16" Margin="1" MouseUp="StartStopButtonClick" Foreground="White" Name="StartStopButton" HorizontalAlignment="Stretch" VerticalAlignment="Stretch" Background="Green" BorderBrush="Black" HorizontalContentAlignment="Center" VerticalContentAlignment="Center">Start</Label>
+        <Label Grid.Column="3" FontSize="16" Margin="1" MouseUp="ReportButtonClick" Foreground="White" Name="ReportButton" HorizontalAlignment="Stretch" VerticalAlignment="Stretch" Background="Green" BorderBrush="Black" HorizontalContentAlignment="Center" VerticalContentAlignment="Center">Report</Label>
+    </Grid>
+</UserControl>

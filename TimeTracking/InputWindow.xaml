@@ -1,0 +1,13 @@
+﻿<Window x:Class="TimeTracking.InputWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Title" Height="144" Width="547" WindowStartupLocation="CenterScreen" Icon="/TimeTracking;component/Clock.ico" ResizeMode="NoResize" WindowStyle="SingleBorderWindow" Closing="Window_Closing">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="80*"></ColumnDefinition>
+            <ColumnDefinition Width="20*"></ColumnDefinition>
+        </Grid.ColumnDefinitions>
+        <TextBox Name="TextBox" Text="your description comes here !" FontSize="16"></TextBox>
+        <Label Grid.Column="1" FontSize="16" MouseUp="SaveButtonClick" Foreground="White" Name="SaveButton" HorizontalAlignment="Stretch" VerticalAlignment="Stretch" Background="Green" BorderBrush="Black" HorizontalContentAlignment="Center" VerticalContentAlignment="Center">Save</Label>
+    </Grid>
+</Window>

@@ -43,7 +43,7 @@ namespace TimeTracking
         private void NewProjectLabelMouseUp(object sender, System.Windows.Input.MouseButtonEventArgs e)
         {
             //show dialog to input new project name
-            var projectName = InputWindow.GetText("New project", "Enter the name for your project here !", text => text.Length >= 3 && text.Length <= 40);
+            var projectName = InputWindow.GetText("New project", "Enter the name for your project here !", text => text.Length >= 3 && text.Length <= 50);
             var projectDescription = InputWindow.GetText("Project description", "Enter a description for your project", text => true);
 
             //add project to stackpanel

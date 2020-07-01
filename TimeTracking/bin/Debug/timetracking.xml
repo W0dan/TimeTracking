@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<timetracking>
+  <projects>
+    <project name="CAP2">
+      <trackedtime when="28-05-2020 11:48:57" howlong="00:00:22" description="1211 blah" />
+    </project>
+    <project name="RECIST">
+      <trackedtime when="28-05-2020 11:48:41" howlong="00:00:13" description="TEST story" />
+      <trackedtime when="28-05-2020 11:49:04" howlong="00:00:15" description="test 33" />
+    </project>
+  </projects>
+</timetracking>

@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<timetracking>
+  <projects>
+    <project name="QFR-CRP(VMSW)-CPSNV18/2432-DEV-LI" description="Vlaamse Maatschappij voor Sociaal Wonen - CPSNV18/2432 Vlareko fase 2">
+    </project>
+    <project name="QFR-CRP(VMSW)-CPSNV20/1317-DEV-LI" description="Vlaamse Maatschappij voor Sociaal Wonen - CPSNV20/1317 Vlareko documentatie OIDC toepassingen" />
+    <project name="QF-(UZA)-Supp-0965-IL" description="Support UZA - Dev - directie ICT-17/214" />
+  </projects>
+</timetracking>

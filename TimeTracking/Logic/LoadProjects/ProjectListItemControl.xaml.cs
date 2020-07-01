@@ -21,6 +21,7 @@ namespace TimeTracking.Logic.LoadProjects
             InitializeComponent();
 
             ProjectName.Content = _projectName;
+            ProjectDescription.Content = project.Description;
 
             _timer.Interval = new TimeSpan(0, 0, 0, 1);
             _timer.Tick += TimerTick;

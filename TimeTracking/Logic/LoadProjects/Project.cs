@@ -2,16 +2,13 @@ namespace TimeTracking.Logic.LoadProjects
 {
     public class Project
     {
-        private readonly string _name;
-
-        public Project(string name)
+        public Project(string name, string description)
         {
-            _name = name;
+            Name = name;
+            Description = description;
         }
 
-        public string Name
-        {
-            get { return _name; }
-        }
+        public string Name { get; }
+        public string Description { get; }
     }
 }

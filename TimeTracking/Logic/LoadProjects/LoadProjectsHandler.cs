@@ -23,10 +23,11 @@ namespace TimeTracking.Logic.LoadProjects
 
              var projects = doc.Descendants("projects").First().Descendants().ToList();
 
-             return (from xElement in projects 
-                     select xElement.Attribute("name") 
-                     into xAttribute where xAttribute != null 
-                     select new Project(xAttribute.Value)).ToList();
+             return (from xElement in projects
+                     where xElement.Name == "project"
+                     select new { prjName = xElement.Attribute("name"), prjDesc = xElement.Attribute("description") }
+                     into xProject where xProject != null 
+                     select new Project(xProject.prjName.Value, xProject.prjDesc?.Value ?? "")).ToList();
          }
     }
 }

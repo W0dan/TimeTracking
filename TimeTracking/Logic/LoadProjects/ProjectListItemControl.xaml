@@ -7,14 +7,20 @@
              d:DesignHeight="57" d:DesignWidth="518">
     <Grid>
         <Grid.ColumnDefinitions>
-            <ColumnDefinition Width="35*"></ColumnDefinition>
-            <ColumnDefinition Width="35*"></ColumnDefinition>
-            <ColumnDefinition Width="15*"></ColumnDefinition>
-            <ColumnDefinition Width="15*"></ColumnDefinition>
+            <ColumnDefinition Width="*"></ColumnDefinition>
+            <ColumnDefinition Width="150"></ColumnDefinition>
+            <ColumnDefinition Width="100"></ColumnDefinition>
+            <ColumnDefinition Width="100"></ColumnDefinition>
         </Grid.ColumnDefinitions>
-        <Label Grid.Column="0" Name="ProjectName" FontSize="32" VerticalAlignment="Stretch" VerticalContentAlignment="Center" HorizontalAlignment="Stretch" HorizontalContentAlignment="Center"></Label>
-        <Label Grid.Column="1" MouseUp="PauseButtonClick" Name="ElapsedTime" FontSize="32" VerticalAlignment="Stretch" VerticalContentAlignment="Center" HorizontalAlignment="Stretch" HorizontalContentAlignment="Center"></Label>
-        <Label Grid.Column="2" FontSize="16" Margin="1" MouseUp="StartStopButtonClick" Foreground="White" Name="StartStopButton" HorizontalAlignment="Stretch" VerticalAlignment="Stretch" Background="Green" BorderBrush="Black" HorizontalContentAlignment="Center" VerticalContentAlignment="Center">Start</Label>
-        <Label Grid.Column="3" FontSize="16" Margin="1" MouseUp="ReportButtonClick" Foreground="White" Name="ReportButton" HorizontalAlignment="Stretch" VerticalAlignment="Stretch" Background="Green" BorderBrush="Black" HorizontalContentAlignment="Center" VerticalContentAlignment="Center">Report</Label>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="*"></RowDefinition>
+            <RowDefinition Height="Auto"></RowDefinition>
+        </Grid.RowDefinitions>
+        <Label Margin="5 0 0 0" Grid.Row="0" Grid.Column="0" Name="ProjectName" FontSize="32" VerticalAlignment="Stretch" VerticalContentAlignment="Center" HorizontalAlignment="Stretch" HorizontalContentAlignment="Left"></Label>
+        <Label Grid.Row="0" Grid.Column="1" MouseUp="PauseButtonClick" Name="ElapsedTime" FontSize="32" VerticalAlignment="Stretch" VerticalContentAlignment="Center" HorizontalAlignment="Stretch" HorizontalContentAlignment="Center"></Label>
+        <Label Grid.Row="0" Grid.Column="2" Grid.RowSpan="2" FontSize="16" Margin="1" MouseUp="StartStopButtonClick" Foreground="White" Name="StartStopButton" HorizontalAlignment="Stretch" VerticalAlignment="Stretch" Background="Green" BorderBrush="Black" HorizontalContentAlignment="Center" VerticalContentAlignment="Center">Start</Label>
+        <Label Grid.Row="0" Grid.Column="3" Grid.RowSpan="2" FontSize="16" Margin="1" MouseUp="ReportButtonClick" Foreground="White" Name="ReportButton" HorizontalAlignment="Stretch" VerticalAlignment="Stretch" Background="Green" BorderBrush="Black" HorizontalContentAlignment="Center" VerticalContentAlignment="Center">Report</Label>
+
+        <Label Margin="5 0 0 0" Grid.Row="1" Grid.Column="0" Name="ProjectDescription" Grid.ColumnSpan="2" FontSize="16" HorizontalContentAlignment="Left" HorizontalAlignment="Stretch" VerticalAlignment="Stretch"></Label>
     </Grid>
 </UserControl>

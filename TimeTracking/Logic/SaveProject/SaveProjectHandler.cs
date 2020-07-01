@@ -24,6 +24,7 @@ namespace TimeTracking.Logic.SaveProject
 
             var projectNode = new XElement("project");
             projectNode.Add(new XAttribute("name", project.Name));
+            projectNode.Add(new XAttribute("description", project.Description));
             projects.Add(projectNode);
 
             _repository.Save();
